@@ -33,6 +33,7 @@ Then, **open another terminal** and run React:
 ```console
 $ npm start --prefix client
 ```
+add this in script tag
 
 Each application will run on its own port on `localhost`:
 
